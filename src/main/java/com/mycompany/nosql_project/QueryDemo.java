@@ -28,7 +28,7 @@ public class QueryDemo {
           System.out.println("Document: " + i);
           System.out.println(cursor.next());
           i++;
-      }
+      }//hello
 
   }
 }
