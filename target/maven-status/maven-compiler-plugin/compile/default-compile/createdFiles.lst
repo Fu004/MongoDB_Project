@@ -1,0 +1,6 @@
+com\mycompany\nosql_project\InsertDemo.class
+com\mycompany\nosql_project\MyConstants.class
+com\mycompany\nosql_project\QueryDemo.class
+com\mycompany\nosql_project\GettingCollection.class
+com\mycompany\nosql_project\MongoDBUtils.class
+com\mycompany\nosql_project\InsertFromConsole.class
